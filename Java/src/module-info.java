@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Toxy
+ *
+ */
+module passwordsGenerator {
+}

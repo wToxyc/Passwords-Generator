@@ -1,0 +1,22 @@
+{
+  "name": "javascript",
+  "version": "1.0.0",
+  "description": "Password Generator",
+  "main": "main.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": [
+    "password",
+    "passwords",
+    "password-generator",
+    "generator",
+    "passwords-generator"
+  ],
+  "author": "Toxy",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "prompt-sync": "^4.2.0"
+  }
+}
